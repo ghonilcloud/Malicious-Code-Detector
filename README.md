@@ -135,7 +135,3 @@ WARNING example.py:  20 UNUSED_PARAMETER - Parameter 'unused' is never used
 - Python 3.8+
 - Flask 2.0+
 - Werkzeug 2.0+
-
----
-
-**For complete documentation, see DOCUMENTATION.md**
